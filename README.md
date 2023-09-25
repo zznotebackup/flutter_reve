@@ -1,2 +1,64 @@
-# FlutterReve
+<p align="center">
+	<img alt="logo" src="images/favicon.ico" width="150" height="150">
+</p>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">FlutterReve</h1>
+<h4 align="center">自己开发的CloudReve手机客户端</h4>
+
+<p align="center">
+	<a href="https://gitee.com/zznote/base-role/stargazers"><img src="https://gitee.com/zznote/base-role/badge/star.svg?theme=gvp"></a>
+	<a href="https://gitee.com/zznote/base-role/members"><img src="https://gitee.com/zznote/base-role/badge/fork.svg?theme=gvp"></a>
+	<a href="https://github.com/dromara/sa-token/blob/master/LICENSE"><img src="https://img.shields.io/github/license/dromara/sa-token.svg?style=flat-square"></a>
+</p>
+
+---
+
+## 前言：
+
+- 注：学习测试请拉取 master 分支，dev 是开发分支，有很多特性并不稳定（在项目根目录执行 `git checkout master`）。
+- 欢迎二开，开源不易，点个 star 鼓励一下吧！
+
+## FlutterReve 介绍
+
+鉴于CloudReve的客户端要收费，并且有手机端的使用需求，本人学了两天flutter就开始上手了。。很多功能还没开发完成，会逐步完善。
+
+鉴于flutter学习时间比较短且作为一个后端程序员，请对代码规范以及使用方式多多包涵
+
+### 实现功能
+
+- [x] 绑定登录
+- [x] 站点多用户绑定
+- [x] 文件夹浏览
+- [x] 基础UI
+- [ ] 文件在线查看内容
+- [ ] 文件离线查看
+- [ ] 文件上传、下载
+
+## 演示效果
+
+<img src="https://im-zznote-oss.oss-cn-hangzhou.aliyuncs.com/uPic/logo.png" width="200">
+<img src="https://img1.baidu.com/it/u=2812417321,4100104782&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1692896400&t=51d4c4ce9a8d025ae59fd0e36583085f" width="200">
+<img src="https://img1.baidu.com/it/u=2812417321,4100104782&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1692896400&t=51d4c4ce9a8d025ae59fd0e36583085f" width="200">
+<img src="https://img1.baidu.com/it/u=2812417321,4100104782&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1692896400&t=51d4c4ce9a8d025ae59fd0e36583085f" width="200">
+<img src="https://img1.baidu.com/it/u=2812417321,4100104782&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1692896400&t=51d4c4ce9a8d025ae59fd0e36583085f" width="200">
+<img src="https://img1.baidu.com/it/u=2812417321,4100104782&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1692896400&t=51d4c4ce9a8d025ae59fd0e36583085f" width="200">
+
+## 😎 开源协议
+
+[MIT License](https://gitee.com/zhijiantianya/ruoyi-vue-pro/blob/master/LICENSE) 开源协议，个人与企业可 100% 免费使用，放心二开。
+
+## 交流群
+
+微信交流群：
+
+![微信群]( ':size=230')
+
+(扫码添加微信，备注：FlutterReve，邀您加入群聊)
+
+<br>
+
+加入群聊的好处：
+
+- 第一时间收到项目更新通知。
+- 第一时间收到项目 bug 通知。
+- 和众多大佬一起互相 (huá shuǐ) 交流 (mō yú)。
 
