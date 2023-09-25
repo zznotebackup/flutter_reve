@@ -5,9 +5,13 @@
 <h4 align="center">自己开发的CloudReve手机客户端</h4>
 
 <p align="center">
-	<a href="https://gitee.com/zznote/base-role/stargazers"><img src="https://gitee.com/zznote/base-role/badge/star.svg?theme=gvp"></a>
-	<a href="https://gitee.com/zznote/base-role/members"><img src="https://gitee.com/zznote/base-role/badge/fork.svg?theme=gvp"></a>
-	<a href="https://github.com/dromara/sa-token/blob/master/LICENSE"><img src="https://img.shields.io/github/license/dromara/sa-token.svg?style=flat-square"></a>
+	<a href="https://gitee.com/zznote/flutter_reve/stargazers"><img src="https://gitee.com/zznote/flutter_reve/badge/star.svg?theme=gvp"></a>
+	<a href="https://gitee.com/zznote/flutter_reve/members"><img src="https://gitee.com/zznote/flutter_reve/badge/fork.svg?theme=gvp"></a>
+	<a href="https://github.com/zznotebackup/flutter_reve/stargazers"><img src="https://img.shields.io/github/stars/zznotebackup/flutter_reve?style=flat -square&logo=GitHub"></a>
+	<a href="https://github.com/zznotebackup/flutter_reve/network/members"><img src="https://img.shields.io/github/forks/zznotebackup/flutter_reve?style =flat-square&logo=GitHub"></a>
+	<a href="https://github.com/zznotebackup/flutter_reve/watchers"><img src="https://img.shields.io/github/watchers/zznotebackup/flutter_reve?style=flat -square&logo=GitHub"></a>
+	<a href="https://github.com/zznotebackup/flutter_reve/issues"><img src="https://img.shields.io/github/issues/zznotebackup/flutter_reve.svg?style =flat-square&logo=GitHub"></a>
+	<a href="https://github.com/zznotebackup/flutter_reve/blob/master/LICENSE"><img src="https://img.shields.io/github/license/zznotebackup/flutter_reve .svg?style=flat-square"></a>
 </p>
 
 ---
@@ -15,7 +19,7 @@
 ## 前言：
 
 - 注：学习测试请拉取 master 分支，dev 是开发分支，有很多特性并不稳定（在项目根目录执行 `git checkout master`）。
-- 欢迎二开，开源不易，点个 star 鼓励一下吧！
+- 欢迎二开，开源不易，点个 star 鼓励一下吧，这对我来说很重要！
 
 ## FlutterReve 介绍
 
