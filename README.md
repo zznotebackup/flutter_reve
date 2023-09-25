@@ -35,12 +35,13 @@
 
 ## 演示效果
 
-<img src="https://im-zznote-oss.oss-cn-hangzhou.aliyuncs.com/uPic/logo.png" width="200">
-<img src="https://img1.baidu.com/it/u=2812417321,4100104782&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1692896400&t=51d4c4ce9a8d025ae59fd0e36583085f" width="200">
-<img src="https://img1.baidu.com/it/u=2812417321,4100104782&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1692896400&t=51d4c4ce9a8d025ae59fd0e36583085f" width="200">
-<img src="https://img1.baidu.com/it/u=2812417321,4100104782&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1692896400&t=51d4c4ce9a8d025ae59fd0e36583085f" width="200">
-<img src="https://img1.baidu.com/it/u=2812417321,4100104782&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1692896400&t=51d4c4ce9a8d025ae59fd0e36583085f" width="200">
-<img src="https://img1.baidu.com/it/u=2812417321,4100104782&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1692896400&t=51d4c4ce9a8d025ae59fd0e36583085f" width="200">
+<img src="images/login.png" width="200">
+<img src="images/login2.png" width="200">
+<img src="images/user.png" width="200">
+<img src="images/users.png" width="200">
+<img src="images/index.png" width="200">
+<img src="images/logout.png" width="200">
+<img src="images/upload.png" width="200">
 
 ## 😎 开源协议
 
@@ -50,10 +51,7 @@
 
 微信交流群：
 
-![微信群]( ':size=230')
-
-(扫码添加微信，备注：FlutterReve，邀您加入群聊)
-
+![微信群](images/group.png ':size=230')
 <br>
 
 加入群聊的好处：
