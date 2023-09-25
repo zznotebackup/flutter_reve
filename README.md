@@ -39,12 +39,7 @@
 
 ## 演示效果
 
-<img src="images/login.png" width="200">
-<img src="images/login2.png" width="200">
-<img src="images/user.png" width="200">
-<img src="images/users.png" width="200">
-<img src="images/index.png" width="200">
-<img src="images/logout.png" width="200">
+<img src="images/globle.png" width="600">
 <img src="images/upload.png" width="200">
 
 ## 😎 开源协议
